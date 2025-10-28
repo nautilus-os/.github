@@ -1,6 +1,10 @@
 # Nautilus OS
 An operating system made for your browser. Complete with everything you could possibly need to get your stuff done.
 
+## 🎒 Repositories
+- [NautilusOS](https://github.com/Nautilus-OS/NautilusOS)
+- [NautilusOS Dev](https://github.com/nautilus-os/NautilusOS-Dev)
+
 ## ✨ Features
 - Community Apps
 - Extensive customizability
